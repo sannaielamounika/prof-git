@@ -1,7 +1,3 @@
 Base version of application
 Login module initialized
-<<<<<<< HEAD
-Forgot password added
-=======
 Login page created
->>>>>>> 3f9f3b9889a8b2e31d00591cedcd3cc5b3dd6e38
