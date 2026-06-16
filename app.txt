@@ -1,2 +1,1 @@
-Base version of application
-Login module initialized
+Application Version: Login Module
