@@ -1,2 +1,2 @@
 Base version of application
-Login module initialized
+Payment module initialized
