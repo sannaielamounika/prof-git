@@ -5,3 +5,4 @@ Base application code
 payment module initialized
 Profile module initialized
 main
+BUG IN PRODUCTION
