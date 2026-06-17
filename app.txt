@@ -8,4 +8,4 @@ payment module initialized
 Profile module initialized
 main
 "Fixed login crash in production"
-
+"Fixed release bug"
