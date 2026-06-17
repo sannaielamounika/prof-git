@@ -9,4 +9,6 @@ Profile module initialized
 main
 "Fixed login crash in production"
 
-Feature X
+
+"Fixed release bug"
+
